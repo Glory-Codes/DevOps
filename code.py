@@ -1,0 +1,1 @@
+print("Glory Glory Glory Glory")
